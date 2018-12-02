@@ -78,6 +78,9 @@ h4{
 #info{
   color: white;
 }
+#aboutme{
+  color: white;
+}
 #skill{
   color: white;
 
@@ -88,4 +91,7 @@ h4{
 a{
   color: white ;
   text-decoration: underline;
+}
+iframe{
+  background-color: transparent;
 }
