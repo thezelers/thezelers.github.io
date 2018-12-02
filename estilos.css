@@ -1,0 +1,91 @@
+*{
+  font-family: "georgia";
+}
+
+.CapaIz{
+  position:absolute;
+  top: 0;
+  left: 0;
+  background-color: #2020ff;
+  width: 35%;
+  display: grid;
+   height: 150%;
+  text-align: center;
+
+}
+.capaPrinc{
+  position:absolute;
+  top: 0;
+  color: white;
+  height: 150%;
+  left: 35%;
+  width: 65%;
+  background-image: url("./media/fondo.gif");
+}
+.Cpie{
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  height: 6%;
+  width: 100%;
+  background-color: #4586ff;
+  text-align: center;
+}
+#foto{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:none;
+  width: 96px;
+  height: 128px;
+  border-radius:150px;
+}
+
+#nombreosc{
+  background-color: #0000cc ;
+  text-align: center;
+  color: white;
+}
+#idiomasosc{
+  background-color: #0000cc ;
+  text-align: center;
+  color: white;
+}
+#habilidadesosc{
+  background-color: #0000cc ;
+  text-align: center;
+  color: white;
+}
+
+#aboutmeosc{
+  background-color: #0000cc ;
+  text-align: center;
+  color: white;
+}
+h4{
+  color: white;
+}
+.ninfo{
+  font-weight:bold;
+}
+.prellenos{
+  color: blue;
+}
+#idiomas{
+  color: white;
+
+}
+#info{
+  color: white;
+}
+#skill{
+  color: white;
+
+}
+.negrita{
+  font-weight:bold;
+}
+a{
+  color: white ;
+  text-decoration: underline;
+}
